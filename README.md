@@ -19,10 +19,13 @@ The purpose of this project is to analyze Amazon reviews written by members of t
     Filtered DataFrame where there is not a Vine review:
     ![](/Resources/unPaidVine_df2.png)
 
+
     How many Vine reviews and non-Vine reviews were there?
+
     ![](/Resources/vineReviews.png)
 
     How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+    
     ![](/Resources/5star_vine.png)
 
     What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
