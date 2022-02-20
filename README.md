@@ -36,19 +36,19 @@ The purpose of this project is to analyze Amazon reviews written by members of t
 
     The DataFrames created in Deliverable 1, were loaded to the corresponding tables in pgAdmin. This was accomplished by making a connection to our AWS RDS instance.
     
-    review_id table
+        review_id table
     ![](/Resources/review_id.png) 
 
 
-    products_table
+        products_table
     ![](/Resources/products_table.png)
 
 
-    customers_table
+        customers_table
     ![](/Resources/customers_table.png)
 
 
-    vine_table
+        vine_table
     ![](/Resources/vine_table.png)
     
 
