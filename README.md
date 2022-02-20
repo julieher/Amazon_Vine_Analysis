@@ -25,12 +25,32 @@ The purpose of this project is to analyze Amazon reviews written by members of t
     ![](/Resources/vineReviews.png)
 
     How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
-    
+
     ![](/Resources/5star_vine.png)
 
     What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
     ![](/Resources/vine_percentage.png)
+
+-   **Load:**
+
+    The DataFrames created in Deliverable 1, were loaded to the corresponding tables in pgAdmin. This was accomplished by making a connection to our AWS RDS instance.
+    
+    review_id table
+    ![](/Resources/review_id.png) 
+
+
+    products_table
+    ![](/Resources/products_table.png)
+
+
+    customers_table
+    ![](/Resources/customers_table.png)
+
+
+    vine_table
+    ![](/Resources/vine_table.png)
+    
 
 # Summary:
 
